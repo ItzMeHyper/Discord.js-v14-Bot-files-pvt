@@ -1,0 +1,9 @@
+{
+    "token": "ddd",
+    "guildId":"995342969928429629",
+    "developerGuild": "1001845060754739320",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "MONGO-DB LINK HERE"
+}
